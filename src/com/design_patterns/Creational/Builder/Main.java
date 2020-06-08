@@ -1,6 +1,6 @@
 package com.design_patterns.Creational.Builder;
 
-public class Builder {
+public class Main {
 
     public static void main(String[] args) {
 
