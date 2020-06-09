@@ -37,7 +37,7 @@ public class PersonBuilder {
         return this;
     }
 
-    public Person build(){
+    public Person build() {
         return new Person(this);
     }
 
