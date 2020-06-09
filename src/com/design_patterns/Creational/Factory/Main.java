@@ -1,7 +1,6 @@
 package com.design_patterns.Creational.Factory;
 
-import com.design_patterns.Creational.Builder.Person;
-import com.design_patterns.Creational.Builder.PersonBuilder;
+import com.design_patterns.Creational.Factory.Shapes.Shape;
 
 public class Main {
 
