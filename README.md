@@ -12,3 +12,5 @@ Design patterns in Java
 [Abstract Factory pattern](https://github.com/sanimkhan/design_patterns/tree/master/src/com/design_patterns/Creational/AbstractFactory "Abstract Factory Pattern")
 
 [Singleton pattern](https://github.com/sanimkhan/design_patterns/tree/master/src/com/design_patterns/Creational/Singleton "Singleton Pattern")
+
+[Prototype pattern](https://github.com/sanimkhan/design_patterns/tree/master/src/com/design_patterns/Creational/Prototype "Prototype Pattern")

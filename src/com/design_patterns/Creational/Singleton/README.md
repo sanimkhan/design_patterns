@@ -1,5 +1,5 @@
 # Singleton Pattern
-Singletno pattern in Java
+Singleton pattern in Java
 
 
 ### When to use
