@@ -22,3 +22,5 @@ Design patterns in Java
 [Template pattern](https://github.com/sanimkhan/design_patterns/tree/master/src/com/design_patterns/Creational/Template "Template Pattern")
 
 [Chain of Responsibility pattern](https://github.com/sanimkhan/design_patterns/tree/master/src/com/design_patterns/Behavioral/ChainOfResponsibility "Chain of Responsibility Pattern")
+
+[Command pattern](https://github.com/sanimkhan/design_patterns/tree/master/src/com/design_patterns/Behavioral/Command "Command Pattern")
