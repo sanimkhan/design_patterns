@@ -24,3 +24,5 @@ Design patterns in Java
 [Chain of Responsibility pattern](https://github.com/sanimkhan/design_patterns/tree/master/src/com/design_patterns/Behavioral/ChainOfResponsibility "Chain of Responsibility Pattern")
 
 [Command pattern](https://github.com/sanimkhan/design_patterns/tree/master/src/com/design_patterns/Behavioral/Command "Command Pattern")
+
+[Strategy pattern](https://github.com/sanimkhan/design_patterns/tree/master/src/com/design_patterns/Behavioral/Strategy "Strategy Pattern")
