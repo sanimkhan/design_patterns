@@ -26,3 +26,5 @@ Design patterns in Java
 [Command pattern](https://github.com/sanimkhan/design_patterns/tree/master/src/com/design_patterns/Behavioral/Command "Command Pattern")
 
 [Strategy pattern](https://github.com/sanimkhan/design_patterns/tree/master/src/com/design_patterns/Behavioral/Strategy "Strategy Pattern")
+
+[Iterator pattern](https://github.com/sanimkhan/design_patterns/tree/master/src/com/design_patterns/Behavioral/Iterator "Iterator Pattern")
