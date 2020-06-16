@@ -14,5 +14,5 @@ Visitor pattern in Java
  - Need to define a new operation without introducing the modifications to an existing object structure.
  
  
- 
+### Class diagram 
   ![Class diagram](VisitorClassDiagram.png)
