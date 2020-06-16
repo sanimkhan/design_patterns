@@ -28,3 +28,5 @@ Design patterns in Java
 [Strategy pattern](https://github.com/sanimkhan/design_patterns/tree/master/src/com/design_patterns/Behavioral/Strategy "Strategy Pattern")
 
 [Iterator pattern](https://github.com/sanimkhan/design_patterns/tree/master/src/com/design_patterns/Behavioral/Iterator "Iterator Pattern")
+
+[Visitor pattern](https://github.com/sanimkhan/design_patterns/tree/master/src/com/design_patterns/Behavioral/Visitor "Visitor Pattern")
