@@ -12,3 +12,7 @@ Visitor pattern in Java
 
 ### When to use
  - Need to define a new operation without introducing the modifications to an existing object structure.
+ 
+ 
+ 
+ ![Class diagram](https://github.com/sanimkhan/design_patterns/tree/master/src/com/design_patterns/Behavioral/Visitor/VisitorClassDiagram.png?raw=true "CLass diagram")
