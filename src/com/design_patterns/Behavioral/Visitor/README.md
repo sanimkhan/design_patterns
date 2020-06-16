@@ -15,4 +15,4 @@ Visitor pattern in Java
  
  
  
- ![Class diagram](https://github.com/sanimkhan/design_patterns/tree/master/src/com/design_patterns/Behavioral/Visitor/VisitorClassDiagram.png?raw=true "CLass diagram")
+  ![Class diagram](VisitorClassDiagram.png)
