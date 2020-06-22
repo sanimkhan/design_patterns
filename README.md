@@ -30,3 +30,7 @@ Design patterns in Java
 [Iterator pattern](https://github.com/sanimkhan/design_patterns/tree/master/src/com/design_patterns/Behavioral/Iterator "Iterator Pattern")
 
 [Visitor pattern](https://github.com/sanimkhan/design_patterns/tree/master/src/com/design_patterns/Behavioral/Visitor "Visitor Pattern")
+
+[Mediator pattern](https://github.com/sanimkhan/design_patterns/tree/master/src/com/design_patterns/Behavioral/Mediator "Mediator Pattern")
+
+[Memento pattern](https://github.com/sanimkhan/design_patterns/tree/master/src/com/design_patterns/Behavioral/Memento "Memento Pattern")
