@@ -1,9 +1,9 @@
 package com.design_patterns.Behavioral.Observer;
 
-import com.design_patterns.Behavioral.Visitor.Solution.MailClients.OperaMailClient;
-import com.design_patterns.Behavioral.Visitor.Solution.MailClients.SquirrelMailClient;
-import com.design_patterns.Behavioral.Visitor.Solution.Visitors.MacMailClientVisitor;
-import com.design_patterns.Behavioral.Visitor.Solution.Visitors.WindowsMailClientVisitor;
+import com.design_patterns.Behavioral.Observer.Observers.Bidder;
+import com.design_patterns.Behavioral.Observer.Observers.Observer;
+import com.design_patterns.Behavioral.Observer.Subjects.Product;
+import com.design_patterns.Behavioral.Observer.Subjects.Subject;
 
 import java.math.BigDecimal;
 

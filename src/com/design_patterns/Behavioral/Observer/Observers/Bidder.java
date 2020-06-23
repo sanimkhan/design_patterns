@@ -1,4 +1,4 @@
-package com.design_patterns.Behavioral.Observer;
+package com.design_patterns.Behavioral.Observer.Observers;
 
 import java.math.BigDecimal;
 

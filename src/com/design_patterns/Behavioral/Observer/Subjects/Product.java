@@ -1,4 +1,6 @@
-package com.design_patterns.Behavioral.Observer;
+package com.design_patterns.Behavioral.Observer.Subjects;
+
+import com.design_patterns.Behavioral.Observer.Observers.Observer;
 
 import java.math.BigDecimal;
 import java.util.ArrayList;
