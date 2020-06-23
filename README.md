@@ -34,3 +34,6 @@ Design patterns in Java
 [Mediator pattern](https://github.com/sanimkhan/design_patterns/tree/master/src/com/design_patterns/Behavioral/Mediator "Mediator Pattern")
 
 [Memento pattern](https://github.com/sanimkhan/design_patterns/tree/master/src/com/design_patterns/Behavioral/Memento "Memento Pattern")
+
+[Observer pattern](https://github.com/sanimkhan/design_patterns/tree/master/src/com/design_patterns/Behavioral/Observer "Observer Pattern")
+
