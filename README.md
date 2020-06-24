@@ -3,37 +3,37 @@ Design patterns in Java
 
 
 
-### Creational
+### creational
 
-[Builder pattern](https://github.com/sanimkhan/design_patterns/tree/master/src/com/design_patterns/Creational/Builder "Builder Pattern")
+[Builder pattern](src/com/designPatterns/creational/builder "Builder Pattern")
 
-[Factory pattern](https://github.com/sanimkhan/design_patterns/tree/master/src/com/design_patterns/Creational/Factory "Factory Pattern")
+[Factory pattern](src/com/designPatterns/creational/factory "Factory Pattern")
 
-[Abstract Factory pattern](https://github.com/sanimkhan/design_patterns/tree/master/src/com/design_patterns/Creational/AbstractFactory "Abstract Factory Pattern")
+[Abstract Factory pattern](src/com/designPatterns/creational/abstractFactory "Abstract Factory Pattern")
 
-[Singleton pattern](https://github.com/sanimkhan/design_patterns/tree/master/src/com/design_patterns/Creational/Singleton "Singleton Pattern")
+[Singleton pattern](src/com/designPatterns/creational/singleton "Singleton Pattern")
 
-[Prototype pattern](https://github.com/sanimkhan/design_patterns/tree/master/src/com/design_patterns/Creational/Prototype "Prototype Pattern")
+[Prototype pattern](src/com/designPatterns/creational/prototype "Prototype Pattern")
 
 
 
-### Behavioral
+### behavioral
 
-[Template pattern](https://github.com/sanimkhan/design_patterns/tree/master/src/com/design_patterns/Creational/Template "Template Pattern")
+[Template pattern](src/com/designPatterns/creational/template "Template Pattern")
 
-[Chain of Responsibility pattern](https://github.com/sanimkhan/design_patterns/tree/master/src/com/design_patterns/Behavioral/ChainOfResponsibility "Chain of Responsibility Pattern")
+[Chain of Responsibility pattern](src/com/designPatterns/behavioral/chainOfResponsibility "Chain of Responsibility Pattern")
 
-[Command pattern](https://github.com/sanimkhan/design_patterns/tree/master/src/com/design_patterns/Behavioral/Command "Command Pattern")
+[Command pattern](src/com/designPatterns/behavioral/command "Command Pattern")
 
-[Strategy pattern](https://github.com/sanimkhan/design_patterns/tree/master/src/com/design_patterns/Behavioral/Strategy "Strategy Pattern")
+[Strategy pattern](src/com/designPatterns/behavioral/strategy "Strategy Pattern")
 
-[Iterator pattern](https://github.com/sanimkhan/design_patterns/tree/master/src/com/design_patterns/Behavioral/Iterator "Iterator Pattern")
+[Iterator pattern](src/com/designPatterns/behavioral/iterator "Iterator Pattern")
 
-[Visitor pattern](https://github.com/sanimkhan/design_patterns/tree/master/src/com/design_patterns/Behavioral/Visitor "Visitor Pattern")
+[Visitor pattern](src/com/designPatterns/behavioral/visitor "Visitor Pattern")
 
-[Mediator pattern](https://github.com/sanimkhan/design_patterns/tree/master/src/com/design_patterns/Behavioral/Mediator "Mediator Pattern")
+[Mediator pattern](src/com/designPatterns/behavioral/mediator "Mediator Pattern")
 
-[Memento pattern](https://github.com/sanimkhan/design_patterns/tree/master/src/com/design_patterns/Behavioral/Memento "Memento Pattern")
+[Memento pattern](src/com/designPatterns/behavioral/memento "Memento Pattern")
 
-[Observer pattern](https://github.com/sanimkhan/design_patterns/tree/master/src/com/design_patterns/Behavioral/Observer "Observer Pattern")
+[Observer pattern](src/com/designPatterns/behavioral/observer "Observer Pattern")
 
